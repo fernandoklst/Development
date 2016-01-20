@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a62177f9-cfde-4291-b904-a90ba5e9c50c" solutionId="a62177f9-cfde-4291-b904-a90ba5e9c50c" resetWebServer="false" sharePointProductVersion="16.0" name="KLST.ConnectOrg.App" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="790bc98d-6b92-4116-b7b1-ea6fd4cedb95" />
+  </features>
+</package>
