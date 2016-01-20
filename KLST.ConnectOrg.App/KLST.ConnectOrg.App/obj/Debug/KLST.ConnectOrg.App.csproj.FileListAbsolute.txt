@@ -1,0 +1,16 @@
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\csc.exe
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\vbc.exe
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\KLST.ConnectOrg.App.pdb
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\obj\Debug\KLST.ConnectOrg.App.dll
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\obj\Debug\KLST.ConnectOrg.App.pdb
+C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\obj\Debug\KLST.ConnectOrg.App.csprojResolveAssemblyReference.cache

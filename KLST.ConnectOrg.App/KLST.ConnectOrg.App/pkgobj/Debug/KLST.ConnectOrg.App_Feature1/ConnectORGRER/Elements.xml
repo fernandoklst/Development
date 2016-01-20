@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="100">
+    <Receiver>
+      <Name>ConnectORGRERItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <SequenceNumber>10000</SequenceNumber>
+      <Url>~debugRemoteAppServiceBaseUrl/Services/ConnectORGRER.svc</Url>
+    </Receiver>
+    <Receiver>
+      <Name>ConnectORGRERItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <SequenceNumber>10000</SequenceNumber>
+      <Url>~debugRemoteAppServiceBaseUrl/Services/ConnectORGRER.svc</Url>
+    </Receiver>
+  </Receivers>
+</Elements>

@@ -1,0 +1,1 @@
+bin\Debug\KLST.ConnectOrg.App.wsp

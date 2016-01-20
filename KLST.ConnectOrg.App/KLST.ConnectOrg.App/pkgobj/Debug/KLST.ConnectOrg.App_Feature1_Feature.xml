@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="071baa6e-6690-45f4-8b8e-3448b0ec7010" Scope="Web" Title="KLST.ConnectOrg.App Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="ConnectORGRER\Elements.xml" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="ConnectORGRER\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>
