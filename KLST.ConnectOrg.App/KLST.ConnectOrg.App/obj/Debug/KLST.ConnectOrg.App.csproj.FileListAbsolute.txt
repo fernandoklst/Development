@@ -13,4 +13,3 @@ C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.Connect
 C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\bin\Debug\KLST.ConnectOrg.App.pdb
 C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\obj\Debug\KLST.ConnectOrg.App.dll
 C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\obj\Debug\KLST.ConnectOrg.App.pdb
-C:\Users\share_000\Documents\GitHub\Development\KLST.ConnectOrg.App\KLST.ConnectOrg.App\obj\Debug\KLST.ConnectOrg.App.csprojResolveAssemblyReference.cache
