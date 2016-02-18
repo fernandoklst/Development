@@ -35,7 +35,7 @@ namespace KLST.ConnectOrg.AppWeb.Services
                     {
                         string opContext = OperationContext.Current.Channel.LocalAddress.Uri.AbsoluteUri.Substring(0, OperationContext.Current.Channel.LocalAddress.Uri.AbsoluteUri.LastIndexOf("/"));
                         string remoteEventReceiverSvcUrl = string.Format("{0}/{1}.svc", opContext, remoteEventReceiverSvcTitle);
-                        RegisterEventReceiver(clientContext, myList, remoteEventReceiverName, remoteEventReceiverSvcUrl, EventReceiverType.ItemUpdated, 15010);
+                        RegisterEventReceiver(clientContext, myList, remoteEventReceiverName, remoteEventReceiverSvcUrl, EventReceiverType.ItemAdded, 15010);
                     }
                     else if (properties.EventType == SPRemoteEventType.AppUninstalling)
                     {

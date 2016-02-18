@@ -67,7 +67,7 @@ namespace KLST.ConnectOrg.AppWeb.Services
                     string ItemURL = String.Empty;
                     List<Event> oList = new List<Event>();
                     Event oEvent = Event.Parse(itemEvent);
-                    oEvent.Organizer = @"tatacalendar@outlook.com";
+                    oEvent.Organizer = @"tatacalendar@tatacalendar.onmicrosoft.com";
                     oList.Add(oEvent);
                     string att = oEvent.ToString(oList);
                     
@@ -81,7 +81,7 @@ namespace KLST.ConnectOrg.AppWeb.Services
 
                     SmtpClient mailserver = new SmtpClient(smtpserver, Convert.ToInt32(587));
                     mailserver.Credentials = new NetworkCredential(username, password);
-                    MailAddress from = new MailAddress(@"tatacalendar@outlook.com","Shakir John");
+                    MailAddress from = new MailAddress(@"tatacalendar@tatacalendar.onmicrosoft.com", "Shakir John");
                     MailMessage mess = new MailMessage();
 
                     try

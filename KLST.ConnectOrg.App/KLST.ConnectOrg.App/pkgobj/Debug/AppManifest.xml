@@ -4,21 +4,16 @@
   <Properties>
     <Title>KLST.ConnectOrg.App</Title>
     <StartPage>https://localhost:44300/Pages/Default.aspx?{StandardTokens}</StartPage>
-    <InstalledEventEndpoint>https://klstinc.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/Services/AppEventReceiver.svc</InstalledEventEndpoint>
+    <InstalledEventEndpoint>https://tatacalendar.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/Services/AppEventReceiver.svc</InstalledEventEndpoint>
   </Properties>
   <AppPrincipal>
     <AutoDeployedWebApplication>
-      <DebugInfo ClientSecret="szmDG46DouhsZt6j5iGgcfVJAET8Kt719MBrDBZAn6c=" AppUrl="https://localhost:44300/;https://klstinc.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/" />
+      <DebugInfo ClientSecret="szmDG46DouhsZt6j5iGgcfVJAET8Kt719MBrDBZAn6c=" AppUrl="https://localhost:44300/;https://tatacalendar.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/" />
     </AutoDeployedWebApplication>
   </AppPrincipal>
   <AppPermissionRequests>
     <AppPermissionRequest Scope="http://sharepoint/content/sitecollection" Right="FullControl" />
-    <AppPermissionRequest Scope="http://sharepoint/social/core" Right="FullControl" />
     <AppPermissionRequest Scope="http://sharepoint/content/sitecollection/web/list" Right="FullControl" />
-    <AppPermissionRequest Scope="http://sharepoint/content/tenant" Right="FullControl" />
-    <AppPermissionRequest Scope="http://sharepoint/social/tenant" Right="FullControl" />
-    <AppPermissionRequest Scope="http://sharepoint/search" Right="QueryAsUserIgnoreAppPrincipal" />
     <AppPermissionRequest Scope="http://sharepoint/content/sitecollection/web" Right="FullControl" />
-    <AppPermissionRequest Scope="http://sharepoint/taxonomy" Right="Read" />
   </AppPermissionRequests>
 </App>

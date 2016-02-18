@@ -5,13 +5,13 @@
       <Name>ConnectORGRERItemAdding</Name>
       <Type>ItemAdding</Type>
       <SequenceNumber>10000</SequenceNumber>
-      <Url>https://klstinc.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/Services/ConnectORGRER.svc</Url>
+      <Url>https://tatacalendar.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/Services/ConnectORGRER.svc</Url>
     </Receiver>
     <Receiver>
       <Name>ConnectORGRERItemUpdating</Name>
       <Type>ItemUpdating</Type>
       <SequenceNumber>10000</SequenceNumber>
-      <Url>https://klstinc.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/Services/ConnectORGRER.svc</Url>
+      <Url>https://tatacalendar.servicebus.windows.net/1905245391/3192105859/obj/aabf9d22-08f3-4cbb-877e-d839edabe250/Services/ConnectORGRER.svc</Url>
     </Receiver>
   </Receivers>
 </Elements>
